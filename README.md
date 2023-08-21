@@ -12,3 +12,10 @@ Meu nome é Júlio César Ferreira Nascimento atualmente sou um estudante de Des
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![MySql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Projetos:
+Aqui estão alguns dos projetos que desenvolvi :desktop_computer:
+
+
+[SHADOW WIZARD](https://c0ruj4.itch.io/shadow-wizard)
