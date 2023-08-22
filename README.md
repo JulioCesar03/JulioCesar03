@@ -18,4 +18,4 @@ Meu nome é Júlio César Ferreira Nascimento atualmente sou um estudante de Des
 Aqui estão alguns dos projetos que desenvolvi :desktop_computer:
 
 
-[SHADOW WIZARD](https://c0ruj4.itch.io/shadow-wizard)
+[SHADOW WIZARD](https://github.com/JulioCesar03/SHADOW/)
