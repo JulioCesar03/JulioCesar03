@@ -19,3 +19,5 @@ Aqui estão alguns dos projetos que desenvolvi :desktop_computer:
 
 
 [SHADOW WIZARD](https://github.com/JulioCesar03/SHADOW/)
+
+[Controlador De estoque](https://github.com/JulioCesar03/ControladorDeEstoque/) (Ainda em desenvolvimento:upside_down_face::desktop_computer:)
